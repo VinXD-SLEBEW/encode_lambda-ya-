@@ -14,6 +14,6 @@ Jalankan perintah berikut di terminal:
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/KelvinTXCybers/encode_lambda-ya-
+git clone https://github.com/VinXD-SLEBEW/encode_lambda-ya-
 cd encode_lambda-ya-
 python dcd_vinxcode.py
